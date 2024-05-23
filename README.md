@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Carson Omao</h1>
+<h1 align="center">"Warning: May spontaneously discuss APIs in social settings🤞😆. I'm CARSON, a programmer by day, coder by night."</h1>
 <h3 align="center">Meet CARSON, a developer who thrives at the intersection of finance and technology. An expert in backend development,CARSON crafts the robust systems that power complex applications. But Carson's talents extend far beyond. Deeply versed in fintech, I understand the intricacies of financial technology, building secure and innovative solutions. Blockchain technology holds no secrets for me. I can design and implement decentralized systems that are secure and transparent. But CARSON isn't just a builder; He is a passionate educator, sharing knowledge through teaching. Whether it's backend development, fintech, or the fascinating world of blockchain, CARSON empowers others to navigate these complex domains. My expertise extends to the critical area of cybersecurity, understanding the ever-evolving threats and building robust defenses. CARSON is a true renaissance coder: a builder, an educator, and a guardian of the digital frontier.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carsonomao&label=Profile%20views&color=0e75b6&style=flat" alt="carsonomao" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carsonomao" alt="carsonomao" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/carson_omao" target="blank"><img src="https://img.shields.io/twitter/follow/carson_omao?logo=twitter&style=for-the-badge" alt="carson_omao" /></a> </p>
 
 - 🔭 I’m currently working on **AfriArt**
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/carson_omao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carson_omao" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carsonomao&show_icons=true&locale=en" alt="carsonomao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carsonomao&" alt="carsonomao" /></p>
+
