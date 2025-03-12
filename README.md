@@ -1,4 +1,4 @@
-<h1 align="center">"Electrical & Electronics Engineering Student | Software Engineer | Space Enthusiast"</h1>
+<h1 align="center">"Electrical & Electronics Engineer | Software Engineer | Space Enthusiast"</h1>
 <h3 align="center">I am a passionate Electrical and Electronics Engineering student at Kenyatta University with a strong interest in engineering design, software development, material testing, and fabrication processes. My journey includes hands-on experience in IoT, AI, battery management systems, and space applications. I strive to create innovative solutions that address real-world challenges in telecommunications, renewable energy, and emerging technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carsonomao&label=Profile%20views&color=0e75b6&style=flat" alt="carsonomao" /> </p>
